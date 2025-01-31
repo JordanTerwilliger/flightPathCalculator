@@ -1,5 +1,3 @@
-//this is the updated file and now im sending from my laptop
-
 #include <iostream>
 #include <iomanip> //setw
 #include <cmath> //sin, cos
